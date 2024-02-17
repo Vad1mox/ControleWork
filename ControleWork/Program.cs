@@ -1,5 +1,22 @@
 ﻿string[] words = {"мороз", "и", "солнце", "день", "чудесный"};
 
+string[] goal = new string[wordSum(words)];
+
+int count = 0;
+
+foreach (string e in words)
+{
+    int letterSum = 0;
+    foreach (char i in e)
+    {
+    letterSum++;
+    }
+    if (letterSum <= 3)
+    {
+        goal[count] = e;
+        count++;
+    }
+}
 int wordSum(string[] words)
 {
     int wordSum = 0;
@@ -17,29 +34,4 @@ int wordSum(string[] words)
         }
     }
     return wordSum;
-}
-
-string[] goal = new string[wordSum(words)];
-
-for (int i = 0; i < goal.Length; i++)
-{
-
-}
-
-string word(string[] words)
-{
-    for (int i = 0; i < words.Length; i++)
-    {
-        string word = i;
-        int sum = 0;
-        foreach (char e in word)
-        {
-            sum++;
-        }
-        if (sum <= 3)
-        {
-            return word;
-        }
-        continue ;
-    }
 }

@@ -1,0 +1,15 @@
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.csproj.AssemblyReference.cache
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.AssemblyInfoInputs.cache
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.AssemblyInfo.cs
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.csproj.CoreCompileInputs.cache
+C:\Users\rucav\Desktop\New\ControleWork\bin\Debug\net6.0\ControleWork.exe
+C:\Users\rucav\Desktop\New\ControleWork\bin\Debug\net6.0\ControleWork.deps.json
+C:\Users\rucav\Desktop\New\ControleWork\bin\Debug\net6.0\ControleWork.runtimeconfig.json
+C:\Users\rucav\Desktop\New\ControleWork\bin\Debug\net6.0\ControleWork.dll
+C:\Users\rucav\Desktop\New\ControleWork\bin\Debug\net6.0\ControleWork.pdb
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.dll
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\refint\ControleWork.dll
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.pdb
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ControleWork.genruntimeconfig.cache
+C:\Users\rucav\Desktop\New\ControleWork\obj\Debug\net6.0\ref\ControleWork.dll
